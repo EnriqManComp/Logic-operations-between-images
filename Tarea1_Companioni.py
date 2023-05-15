@@ -1,5 +1,4 @@
 '''
-Tarea_1 > Enrique Manuel Companioni Valle 
 Logic operations with binary images using two approaches 
 '''
 # Libraries
